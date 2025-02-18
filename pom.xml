@@ -1,0 +1,21 @@
+ <dependencies>
+
+        <!-- Specifies project dependencies. This example includes a JUnit dependency. -->
+
+        <dependency>
+
+            <groupId>junit</groupId>
+
+            <artifactId>junit</artifactId>
+
+            <version>4.12</version>
+
+            <!-- Specifies the dependency's group, artifact, and version. -->
+
+            <scope>test</scope>
+
+            <!-- Specifies the scope of the dependency (e.g., 'compile', 'test', etc.). -->
+
+        </dependency>
+
+    </dependencies>
